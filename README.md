@@ -1,4 +1,4 @@
-# 🌟 SAM-Replication PyTorch Implementation
+# 🍯 SAM-Replication PyTorch Implementation
 
 This repository contains a replication of **SAM-ResNet18**, integrating **Sharpness-Aware Minimization (SAM)** with a **ResNet-18 backbone**, using PyTorch. The model is designed for **robust and efficient image classification**, applying **perturbations on model weights** to improve generalization.
 
